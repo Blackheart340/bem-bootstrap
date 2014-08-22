@@ -1,0 +1,23 @@
+{
+  "name": "bem-bootstrap",
+  "version": "0.0.0",
+  "description": "Twitter Bootstrap layer for BEM",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/floatdrop/bem-bootstrap.git"
+  },
+  "keywords": [
+    "BEM",
+    "Bootstrap"
+  ],
+  "author": "Vsevolod Strukchinsky <floatdrop@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/floatdrop/bem-bootstrap/issues"
+  },
+  "homepage": "https://github.com/floatdrop/bem-bootstrap"
+}
