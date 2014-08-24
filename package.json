@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/floatdrop/bem-bootstrap.git"
+    "url": "git://github.com/matmuchrapna/bem-bootstrap.git"
   },
   "keywords": [
     "BEM",
     "Bootstrap"
   ],
-  "author": "Vsevolod Strukchinsky <floatdrop@gmail.com>",
+  "author": "Vladimir Starkov <matmuchrapna@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/floatdrop/bem-bootstrap/issues"
+    "url": "https://github.com/matmuchrapna/bem-bootstrap/issues"
   },
-  "homepage": "https://github.com/floatdrop/bem-bootstrap"
+  "homepage": "https://github.com/matmuchrapna/bem-bootstrap"
 }
