@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/matmuchrapna/bem-bootstrap/issues"
   },
-  "homepage": "https://github.com/matmuchrapna/bem-bootstrap"
+  "homepage": "https://github.com/matmuchrapna/bem-bootstrap",
+  "devDependencies": {
+    "bootstrap": "~3.2.0"
+  }
 }
